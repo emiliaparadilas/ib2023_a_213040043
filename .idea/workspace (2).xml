@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6732c83c-164e-4b5d-9a3e-6febd377f042" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Peremuan2/BiodataApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Peremuan2/ButtonEventSwing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Peremuan2/HelloInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Peremuan2/HelloTextArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan1/HelloWorldMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan3/BiodataApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan3/HelloCheckBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan3/HelloRadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan4/HelloBorderLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pertemuan4/HelloGridLayout.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-20/lib/src.zip!/java.base/java/lang/Runnable.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2WfFyAR7aZunSZdp7kkm9GyqTVs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Intelij/pertemuan4&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;F:/Intelegensia Buatan/pertemuan4/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Tugas2.MainTest">
+    <configuration name="MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtrack.MainTest" />
+      <module name="IntelegensiaBuatan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="backtrack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tugas2.MainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tugas2.MainTest" />
+      <module name="IntelegensiaBuatan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tugas2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="IntelegensiaBuatan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="IntelegensiaBuatan" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tugas2.MainTest" />
+        <item itemvalue="Application.MainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6732c83c-164e-4b5d-9a3e-6febd377f042" name="Changes" comment="" />
+      <created>1697115985910</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697115985910</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Tugas2/MainTest.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pertemuan4$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1698650420924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>backtrack.*</FILTER>
+    </SUITE>
+  </component>
+</project>
